@@ -1,1 +1,10 @@
-Model for Download: https://drive.google.com/drive/u/0/folders/1wcTMbGd3Q-4JY0K6dVIf17bHCZH6eJID?q=sharedwith:public%20parent:1wcTMbGd3Q-4JY0K6dVIf17bHCZH6eJID
+This is a implementation of a ResNet-34 Architecture
+
+Setup:
+Create a new Conda Environment using the commands given in conda_setup.txt 
+
+Setup a Data Directory for your data
+
+Run the cells in the jupyternotebook
+
+Pre-Trained Model for Download: https://drive.google.com/drive/u/0/folders/1wcTMbGd3Q-4JY0K6dVIf17bHCZH6eJID?q=sharedwith:public%20parent:1wcTMbGd3Q-4JY0K6dVIf17bHCZH6eJID
