@@ -1,0 +1,17 @@
+conda create -n tfgpu
+
+conda activate tfgpu
+
+conda install cuda -c nvidia/label/cuda-12.1
+
+conda install conda-forge::cudnn
+
+conda install tensorflow-gpu
+
+conda install conda-forge::keras
+
+conda install jupyterlab
+
+conda install notebook
+
+conda install nbclassic
